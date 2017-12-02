@@ -1,0 +1,8 @@
+question = raw_input(would you like to continue?)
+if question.lower() == "yes" or question.upper() == "yes":
+                        print ("good, it shall be done")
+else:
+
+		print "Aborting"
+
+                     
